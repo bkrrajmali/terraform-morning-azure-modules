@@ -4,5 +4,3 @@ variable "vnet_name" {}
 variable "address_space" {}
 variable "subnet_name" {}
 variable "subnet_prefix" {}
-variable "allow_ssh_cidr" {}
-variable "tags" {}
